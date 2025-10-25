@@ -258,4 +258,4 @@ This app is not affiliated with Real-Debrid, TorBox, or AllDebrid. All trademark
 
 ---
 
-**Made with ❤️ for the debrid community**
+**Made with ❤️ for the Kuwait**

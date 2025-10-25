@@ -16,14 +16,6 @@ A modern Android application that provides unified access to multiple debrid ser
 - User account information display
 - Automatic magnet link handling from other apps
 - Unified interface across all providers
-n### 🚀 v2.0 Features (In Development)
-- **Torrent File Upload** - Upload .torrent files directly
-- **File Selection** - Choose specific files from multi-file torrents
-- **Torrent Details** - Comprehensive torrent information screen
-- **Download History** - Track and re-download past torrents
-- **Link Unrestrict** - Unlock premium file hosting links
-
-See [FEATURES_V2_ROADMAP.md](FEATURES_V2_ROADMAP.md) for detailed information.
 
 ### 🎨 Modern UI
 - Material Design 3
@@ -266,4 +258,4 @@ This app is not affiliated with Real-Debrid, TorBox, or AllDebrid. All trademark
 
 ---
 
-**Made with ❤️ for the debrid community**
+**Made with ❤️ for the Kuwait**

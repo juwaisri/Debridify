@@ -79,7 +79,7 @@ fun ProviderCard(
                     fontWeight = FontWeight.Bold
                 )
                 Text(
-                    text = provider.baseUrl,
+                    text = provider.description,
                     fontSize = 12.sp,
                     color = MaterialTheme.colorScheme.onSurfaceVariant
                 )

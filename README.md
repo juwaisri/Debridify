@@ -60,8 +60,8 @@ The app provides a clean, intuitive interface for managing your debrid services:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/unchained-multi.git
-cd unchained-multi
+git clone https://github.com/juwaisri/Debridify.git
+cd Debridify
 ```
 
 2. Open the project in Android Studio

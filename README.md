@@ -148,7 +148,7 @@ Alternatively, share a magnet link from another app and choose "Debridify"
 
 ```
 app/
-├── src/main/java/com/unchained/multi/
+├── src/main/java/com/Debridify/multi/
 │   ├── data/
 │   │   ├── api/           # API interfaces
 │   │   │   ├── RealDebridApi.kt
